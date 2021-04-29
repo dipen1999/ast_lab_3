@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AST_LAB_EXP_3"

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.krishna_londhe.ast_lab_exp_3">
+    package="com.dipen.ast_lab_exp_3">
 
     <uses-permission android:name="android.permission.SEND_SMS" />
 
@@ -16,7 +16,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AST_LAB_EXP_3">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.dipen.ast_lab_exp_3.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
